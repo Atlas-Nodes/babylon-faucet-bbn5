@@ -1,7 +1,7 @@
 # Babylon Faucet Blockchain Setup
 
 ![Screenshot](https://github.com/Atlas-Nodes/babylon-faucet-bbn5/raw/main/Screenshot_3.png)
-[Visit Artela Faucet](faucet-bbn5.atlas-nodes.com)
+[Visit Babylon Faucet](faucet-bbn5.atlas-nodes.com)
 
 ## Configuration Files Setup
 
